@@ -3,7 +3,7 @@
 - 👀 I’m interested in learn C++ pyhton
 - ✨ My hobbies are playing basketball, listening to music and learning something.
 - 🌱 I’m currently learning c++ and python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on mobile game
 - 📫 How to reach me ahmetozkan9531@gmail.com
 
 <!---
