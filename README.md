@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmetozknn
 - 👋 I'm a first class computer engineer in Turkey
-- 👀 I’m interested in learn C++ pyhton
+- 👀 I’m interested in learn C++,pyhton
 - ✨ My hobbies are playing basketball, listening to music and learning something.
 - 🌱 I’m currently learning c++ and python
 - 💞️ I’m looking to collaborate on mobile game
